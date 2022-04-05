@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db_name = 'diafilmek';
+$db_name = 'diafilm';
 $db_username = 'root'; 
 $db_password = ''; 
 
